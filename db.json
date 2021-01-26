@@ -1,0 +1,45 @@
+
+{
+    "bg": "https://lh3.googleusercontent.com/pw/ACtC-3dYIbU3wIHpvu4awBrUfyWflO-CMHRDZWzW5MwwMkE-1Gctn2UV6T2yAHXcmSKrWLk-KeM-mGl7g01DElVnBH1ODm7QzvJP474eyIjyJpsgK82LL4AvQX15r2rxc1o0w8SHbxs09DYA3uk2BnU20jGSbA=w1170-h657-no?authuser=0",
+    "title": "Quiz She-Ra e as princesas do poder",
+    "description": "Teste os seus conhecimentos sobre a série She-ra e as princesas do poder.",
+        
+    "questions": [
+      {
+        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
+        "title": "Como fazer um seletor por id via CSS?",
+        "description": "Essa é pra aquecer",
+        "answer": 2,
+        "alternatives": [
+          ".elemento",
+          "*elemento",
+          "#elemento",
+          "%elemento"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
+        "title": "Como fazer um background gradiente com css?",
+        "description": "Faz tempo em haha",
+        "answer": 0,
+        "alternatives": [
+           "background: linear-gradient(#e66465, #9198e5);",
+           "background: gradient(#e66465, #9198e5);"
+        ]
+      }
+    ],
+    "external": [
+      ""
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#631976",
+        "secondary":"#906697",
+        "mainBg": "#673ab7",
+        "contrastText": "#83e345",
+        "wrong": "#dd2c00",
+        "success": "#00c853"
+      },
+      "borderRadius": "10px"
+    }
+  }
