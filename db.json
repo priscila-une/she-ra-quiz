@@ -6,30 +6,70 @@
         
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://media3.giphy.com/media/1gRsJSbmejU9pxsfd0/200w.webp?cid=ecf05e47e0kaurf44ug82lbqw53jsanimft1ofa6qotgb6tg&rid=200w.webp",
+        "title": "Quem é esse personagem?",
+        "description": "Não vale usar o tio Google.",
+        "answer": 1,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Hordak",
+          "Arqueiro",
+          "Ventania",
+          "Falcão do Mar"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
+        "image": "https://img.quizur.com/f/img5bf710a3920ae4.05934634.png?lastEdited=1542918314",
+        "title": "E ela ?",
+        "description": "Uma das principais",
+        "answer": 3,
+        "alternatives": [
+           "Amanda",
+           "Crystal",
+           "Íris",
+           "Cintilante"
+        ]
+      },
+      {
+        "image": "https://img.quizur.com/f/img5bf711bc618225.15247122.jpg?lastEdited=1542918590",
+        "title": "Quem é Hordak",
+        "description": "",
         "answer": 0,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "O vilão líder da Orda",
+           "O vilão líder de Etheria",
+           "O vilão líder da rebelião",
+           "O mocinho qualquer"
+        ]
+      },
+      {
+        "image": "https://img.quizur.com/f/img5bf712c994c523.84948293.png?lastEdited=1542918863",
+        "title": "Perfuma é a princesa..",
+        "description": "",
+        "answer": 3,
+        "alternatives": [
+           "da água",
+           "da natureza",
+           "do fogo",
+           "das flores"
+        ]
+      },
+      {
+        "image": "https://img.quizur.com/f/img5ed93eacf2d678.95915153.png?lastEdited=1591295668",
+        "title": "O que a She-ra fala quando ergue a espada?",
+        "description": "",
+        "answer": 2,
+        "alternatives": [
+           "Pela honra de Lua Nova!",
+           "Pela honra de Etéria!",
+           "Pela honra de Grayskull!",
+           "Pela honra da Horda!"
         ]
       }
+      
     ],
     "external": [
-      ""
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-javascript.omariosouto.vercel.app/"
     ],
     "theme": {
       "colors": {
